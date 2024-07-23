@@ -37,5 +37,3 @@
 * macOS
 * Ubuntu
 * Parrot Security OS
-
-<br><h4 align="left">Login Password  > </h4>
