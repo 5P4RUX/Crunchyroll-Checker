@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crunchyroll%20Token%20Checker&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20script%20for%20checking%20Crunchyroll%20tokens&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crunchyroll%20Checker&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20script%20by%20SPARUX-666&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 <p align="center">
