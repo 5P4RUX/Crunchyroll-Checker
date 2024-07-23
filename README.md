@@ -36,3 +36,26 @@
 * macOS
 * Ubuntu
 * Parrot Security OS
+
+**INSTALL TOOL ON TERMUX**
+
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+pip install requests
+rm -rf Crunchyroll-Checker
+git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
+cd Crunchyroll-Checker
+python CrunchyrollChecker.py
+
+## Keywords
+- Crunchyroll
+- Token Checker
+- Telegram Bot
+- Python
+- Automation
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
