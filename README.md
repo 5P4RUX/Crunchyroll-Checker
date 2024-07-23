@@ -37,6 +37,20 @@
 * Ubuntu
 * Parrot Security OS
 
+
+##USING TOOL
+```sh
+git clone https://github.com/Sparux-666/Crunchyroll-Checker.git
+cd Crunchyroll-Checker
+```
+```sh
+pkg install python
+pip install -r requirements.txt
+```
+```sh
+python CruncyrollChecker.py
+```
+
 ## Keywords
 - Crunchyroll
 - Token Checker
