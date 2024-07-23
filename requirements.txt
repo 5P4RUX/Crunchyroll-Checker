@@ -1,4 +1,4 @@
-requests==2.28.1
-pyfiglet==0.8.post1
-user-agent==1.1.1
-colorama==0.4.6
+requests
+pyfiglet
+colorama
+user-agent
