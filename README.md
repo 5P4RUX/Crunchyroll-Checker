@@ -37,18 +37,6 @@
 * Ubuntu
 * Parrot Security OS
 
-**INSTALL TOOL ON TERMUX**
-
-```sh
-(apt update && apt upgrade -y
-pkg install git
-pkg install python
-pip install requests
-rm -rf Crunchyroll-Checker
-git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
-cd Crunchyroll-Checker
-python CrunchyrollChecker.py)
-
 ## Keywords
 - Crunchyroll
 - Token Checker
@@ -59,4 +47,16 @@ python CrunchyrollChecker.py)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+**INSTALL TOOL ON TERMUX**
+
+```sh
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+pip install requests
+rm -rf Crunchyroll-Checker
+git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
+cd Crunchyroll-Checker
+python CrunchyrollChecker.py
