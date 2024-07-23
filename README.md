@@ -47,7 +47,7 @@ pip install requests
 rm -rf Crunchyroll-Checker
 git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
 cd Crunchyroll-Checker
-python CrunchyrollChecker.py
+python CrunchyrollChecker.py```
 
 ## Keywords
 - Crunchyroll
