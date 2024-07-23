@@ -27,7 +27,6 @@
 
 * Supports the newest Android versions.
 * Uses working APIs.
-* Compatible with all operators/carriers.
 
 <br>
 <h4 align="left">TESTED ON > </h4><br>
