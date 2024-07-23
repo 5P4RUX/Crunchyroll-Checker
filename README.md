@@ -51,11 +51,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **INSTALL TOOL ON TERMUX**
 
-```sh
+   # Update your system and upgrade existing packages
+(```sh 
 apt update && apt upgrade -y
+
+# Install pip with Git and Python
 pkg install git
 pkg install python
+pkg install python-pip
+
+# Install the required modules.
+pip install requests pyfiglet colorama fake_useragent
+
+# Clone the repository
 git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
+
+# Go to repo
 cd Crunchyroll-Checker
-pip install -r requirements.txt
+
+# Run Python code
 python CrunchyrollChecker.py
