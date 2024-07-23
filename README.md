@@ -40,14 +40,14 @@
 **INSTALL TOOL ON TERMUX**
 
 ```sh
-apt update && apt upgrade -y
+(apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
 rm -rf Crunchyroll-Checker
 git clone --depth=1 https://github.com/Sparux-666/Crunchyroll-Checker.git
 cd Crunchyroll-Checker
-python CrunchyrollChecker.py```
+python CrunchyrollChecker.py)
 
 ## Keywords
 - Crunchyroll
