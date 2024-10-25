@@ -40,7 +40,7 @@
 
 ##USING TOOL
 ```sh
-git clone https://github.com/Sparux-666/Crunchyroll-Checker.git
+git clone https://github.com/5P4RUX/Crunchyroll-Checker.git
 cd Crunchyroll-Checker
 ```
 ```sh
