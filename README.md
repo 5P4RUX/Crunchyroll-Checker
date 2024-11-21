@@ -26,7 +26,7 @@
 <h4 align="left">About > </h4><br>
 
 * Supports the newest Android versions.
-* Uses working APIs.
+* Uses working APIs,New API update has been made. Replaced V1 login API with V2.
 
 <br>
 <h4 align="left">TESTED ON > </h4><br>
