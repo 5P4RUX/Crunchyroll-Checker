@@ -39,7 +39,7 @@ for xx in file:
         email = xx.split(':')[0]
         pasw = xx.split(':')[1]
 
-        url = "https://beta-api.crunchyroll.com/auth/v1/token" 
+        url = "https://beta-api.crunchyroll.com/auth/v2/token" 
 
         headers = {
             "host": "beta-api.crunchyroll.com",
